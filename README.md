@@ -1,5 +1,6 @@
+[![Runbot Status](https://runbot.odoo-community.org/runbot/badge/flat/135/8.0.svg)](https://runbot.odoo-community.org/runbot/repo/github-com-oca-product-attribute-135)
 [![Build Status](https://travis-ci.org/OCA/product-attribute.svg?branch=8.0)](https://travis-ci.org/OCA/product-attribute)
-[![Coverage Status](https://coveralls.io/repos/OCA/product-attribute/badge.png?branch=8.0)](https://coveralls.io/r/OCA/product-attribute?branch=8.0)
+[![codecov](https://codecov.io/gh/OCA/product-attribute/branch/8.0/graph/badge.svg)](https://codecov.io/gh/OCA/product-attribute)
 
 Odoo Product Attribute
 ======================
@@ -11,8 +12,10 @@ Available addons
 ----------------
 addon | version | summary
 --- | --- | ---
+[pricelist_item_generator](pricelist_item_generator/) | 8.0.1.0.0 | Create/Update Pricelist Items in a massive way
 [pricelist_per_product](pricelist_per_product/) | 8.0.1.0.0 | Pricelist Per Product
 [product_attribute_multi_type](product_attribute_multi_type/) | 8.0.1.0.0 | Product attribute types
+[product_attribute_priority](product_attribute_priority/) | 8.0.1.0.0 | Product attribute priority
 [product_brand](product_brand/) | 8.0.0.1.0 | Add brand to products
 [product_code_builder](product_code_builder/) | 8.0.0.0.1 | Create product references according to attributes
 [product_code_builder_sequence](product_code_builder_sequence/) | 8.0.0.0.1 | Product Code Builder Sequence
