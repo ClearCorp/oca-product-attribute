@@ -8,17 +8,25 @@ Odoo Product Attribute
 Various addons related to attribute management for products.
 
 [//]: # (addons)
+
 Available addons
 ----------------
 addon | version | summary
 --- | --- | ---
+[pricelist_per_product](pricelist_per_product/) | 9.0.1.0.0 | Display pricelist items in products
+[product_attribute_priority](product_attribute_priority/) | 9.0.1.0.0 | Product attribute priority
 [product_brand](product_brand/) | 9.0.1.0.0 | Product Brand Manager
+[product_custom_info](product_custom_info/) | 9.0.1.0.0 | Add custom field in products
 [product_dimension](product_dimension/) | 9.0.1.0.0 | Product Dimension
 [product_manufacturer](product_manufacturer/) | 9.0.1.0.0 | Products Manufacturers
 [product_multi_category](product_multi_category/) | 9.0.1.0.0 | Product - Many Categories
 [product_multi_image](product_multi_image/) | 9.0.1.0.0 | Multiple Images in Products
+[product_pricelist_direct_print](product_pricelist_direct_print/) | 9.0.1.0.0 | Print price list from menu option, product templates, products variants or price lists
+[product_pricelist_tax_included](product_pricelist_tax_included/) | 9.0.1.0.0 | Write product price list with taxes include
 [product_sequence](product_sequence/) | 9.0.1.0.0 | Product Sequence
+[product_supplierinfo_revision](product_supplierinfo_revision/) | 9.0.1.0.0 | Customizations for Licores Reyes
 [product_uom](product_uom/) | 9.0.1.0.1 | Provide missing uom
+
 
 Unported addons
 ---------------
